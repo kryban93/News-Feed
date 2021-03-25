@@ -26,7 +26,7 @@ function App() {
     } else if (selectedNewsType === 'everything') {
       axios
         .get(
-          `https://newsapi.org/v2/everything?q=${query}&from=${dateFrom}&to=${dateTo}&&sortBy=popularity&apiKey=0469925d51714d2ea19df8320e75a83f`
+          `https://newsapi.org/v2/everything?q=${query}&from=${dateFrom}&to=${dateTo}&sortBy=popularity&apiKey=0469925d51714d2ea19df8320e75a83f`
         )
         .then((response) => {
           setNewsList(response.data.articles);
