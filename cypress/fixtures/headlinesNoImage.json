@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Kaitlin Reilly",
+      "title": "Miley Cyrus Celebrates Hannah Montana Anniversary With Heartfelt Note to Her Character - E! NEWS",
+      "description": "In an emotional post, Miley Cyrus reflected on the bittersweet memories she had while starring on the Disney Channel as the titular character in Hannah Montana. Scroll to read her letter.",
+      "url": "https://www.eonline.com/news/1251915/miley-cyrus-celebrates-hannah-montana-anniversary-with-heartfelt-note-to-her-character",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T20:36:16Z",
+      "content": "For Miley Cyrus, starring as a pop star in disguise on Disney Channel's Hannah Montana was a dream come true.\r\nThe star took to Twitter on March 24 to honor the show's 15th anniversary by writing a l… [+780 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Victoria Albert",
+      "title": "Live Updates: Boulder shooting sparks calls for gun control as friends and family mourn victims - CBS News",
+      "description": "The 21-year-old suspect has been charged with 10 counts of first-degree murder.",
+      "url": "https://www.cbsnews.com/live-updates/boulder-shooting-colorado-motive-2021-03-24/",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T20:26:34Z",
+      "content": "Family friends speak about shooting victims04:36\r\nLynn Murray was at the King Soopers market working for grocery delivery service Instacart and ran into family friend Hope Cotten.\r\n\"She was smiling, … [+795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Yellen supports banks’ share buybacks. Sen. Warren wants BlackRock designated too big to fail - CNBC",
+      "description": "Banks have improved their capital positions and should be allowed to continue to buy back their own shares, Yellen said.",
+      "url": "https://www.cnbc.com/2021/03/24/yellen-supports-buybacks-warren-wants-blackrock-deemed-too-big-to-fail.html",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T19:31:00Z",
+      "content": "Banks have improved their capital positions and should be allowed to continue to buy back their own shares, Treasury Secretary Janet Yellen said Wednesday.\r\nRegulators restricted share repurchases in… [+3909 chars]"
+    }
+  ]
+}

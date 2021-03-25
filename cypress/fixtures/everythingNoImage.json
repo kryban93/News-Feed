@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 16355,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Truth About Cars"
+      },
+      "author": "Matt Posky",
+      "title": "Consumer Reports Worried Tesla Could Spy on Customers",
+      "description": "Consumer Reports has taken umbrage with Tesla’s new cabin camera designed to monitor the driver by suggesting there might be some privacy concerns. While that sounds like the understatement of the year, we’ve seen other companies (e.g. Cadillac) deploy simila…",
+      "url": "https://www.thetruthaboutcars.com/2021/03/consumer-reports-worried-tesla-could-spy-on-customers/",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T20:05:27Z",
+      "content": "Consumer Reports has taken umbrage with Tesla’s new cabin camera designed to monitor the driver by suggesting there might be some privacy concerns. While that sounds like the understatement of the ye… [+7783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ixbt.com"
+      },
+      "author": "verko@corp.ixbt.com (VerKo)",
+      "title": "Как работает одно из самых спорных новшеств Tesla последнего времени",
+      "description": "Когда компания Tesla представила новый дизайн Model S и Model X в январе 2021 года, одним из самых значимых изменений стал отказ от переключателя передач или режимов, ранее расположенного на руле.   \r\n Вместо переключателя предлагается положиться на автоматик…",
+      "url": "https://www.ixbt.com/news/2021/03/24/kak-rabotaet-odno-iz-samyh-spornyh-novshestv-tesla-poslednego-vremeni.html",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T20:04:00Z",
+      "content": "Tesla Model S Model X 2021 , , .  \r\n . . \r\n , Tesla . (Elon Musk) «», , , .  \r\n . Tesla . \r\nOk, so this is how u change gears on the new S/X ????????@elonmusk@teslapic.twitter.com/dXtsSzQBAS\r\n— Micha… [+66 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AndroidGuys"
+      },
+      "author": "AndroidGuys",
+      "title": "$1M Funded In An Hour! BLUETTI EP500/Pro Is Selling Like Hot Cakes On Kickstarter",
+      "description": "BLUETTI, a U.S.-Chinese renewable energy start-up, once again, created another miracle after their huge crowdfunding success with the cutting edge AC200 last year: their latest 5.1kWh home power station - the EP500/Pro - has pulled over $1 million in only an …",
+      "url": "https://www.androidguys.com/promoted-deals/1m-funded-in-an-hour-bluetti-ep500-pro-is-selling-like-hot-cakes-on-kickstarter/",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T20:00:00Z",
+      "content": "BLUETTI, a U.S.-Chinese renewable energy start-up, once again, created another miracle after their huge crowdfunding success with the cutting edge AC200 last year: their latest 5.1kWh home power stat… [+3208 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Carla Mozée)",
+      "title": "Data suggest retail investors have gone into 'hibernation' and the pause could put crypto stocks and reopening trades at risk, Vanda Research says",
+      "description": "Retail investors are lagging the S&P 500's performance, leaving them reluctant to pour their $1,400 stimulus checks into stocks, says one firm.",
+      "url": "https://www.businessinsider.com/retail-investors-stock-buying-stimulus-underperform-sp-market-2021-3",
+      "urlToImage": "",
+      "publishedAt": "2021-03-24T19:53:53Z",
+      "content": "Retail investors have been slowing their purchases of US equities and the pause could prompt a pullback in cryptocurrency proxies and in shares of companies set to benefit from the economy's rebound … [+2170 chars]"
+    }
+  ]
+}
