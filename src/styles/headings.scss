@@ -1,11 +1,16 @@
 @import './colors.scss';
+@import './fonts.scss';
 
 h1 {
-  font-size: 1.75rem;
+  @include primary-font-600;
+  font-size: 1.7rem;
   color: $black;
+  margin: 5px;
 }
 
 h2 {
-  font-size: 1.4rem;
+  @include primary-font-400;
+  font-size: 1.2rem;
   color: $black;
+  margin: 5px;
 }

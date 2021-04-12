@@ -1,0 +1,51 @@
+@import '../../styles/fonts.scss';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  @include secondary-font-400;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 20px;
+  align-items: flex-start;
+
+  & > label {
+    padding: 10px 0px 0px;
+  }
+
+  &__select {
+    @include secondary-font-300;
+    width: 50%;
+  }
+
+  &__btn {
+    @include secondary-font-400;
+    position: absolute;
+    right: 20px;
+    background-color: #91ace7;
+    border: none;
+    border-radius: 0.5em;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    outline: none;
+
+    &__img {
+      height: 2em;
+      padding: 2px;
+    }
+
+    &:disabled {
+      background-color: #c3cde4;
+    }
+
+    &:hover {
+      background-color: rgb(67, 150, 206);
+    }
+  }
+}

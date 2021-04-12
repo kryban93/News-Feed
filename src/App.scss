@@ -1,21 +1,21 @@
+@import './styles/fonts.scss';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  @include secondary-font-700;
+  text-align: center;
+}
+
 .container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-}
-
-.news {
-  &-container {
-    width: 400px;
-    margin: 20px;
-    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.1);
-  }
-
-  &-img {
-    max-height: 200px;
-    max-width: 350px;
-    margin: 20px;
-  }
 }
 
 .alert {
